@@ -9,7 +9,7 @@
 | document        | 文档 Wéndàng                | ドキュメント     |
 | frame           | 框架 Kuàngjià               | フレーム         |
 | height          | 高度 Gāodù             | 高さ             |
-| horizontal line | 横线                   | 罫線               |
+| horizontal line | 横线 Héng xiàn         | 罫線               |
 | HTML tag        | HTML 标签 Biāoqiān          | HTMLタグ         |
 | image           | 图片 Túpiàn                 | 画像             |
 | link            | 链接Liànjiē                 | リンク           |
