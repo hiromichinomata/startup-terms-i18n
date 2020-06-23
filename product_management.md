@@ -12,6 +12,9 @@
 | Alipay          | 支付宝 Zhīfùbǎo             | アリペイ      |
 | WeChat          | 微信 Wēixìn                 | ウィーチャット      |
 | moments         | 朋友圈 péngyouquān          | モーメンツ         |
+| weibo           | 微博 Wēi bó                 | ウェイボ         |
+| TikTok           | 抖音 Dǒu yīn               | ティックトック   |
+| Luckin Coffee    | 瑞幸咖啡 Ruìxìng kāfēi      | ラッキンコーヒー |
 
 ## buzzword
 | English         | 汉语                        | 日本語           |
