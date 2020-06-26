@@ -11,3 +11,4 @@ English <=> Chinese <=> Japanese
 * [Product Management](./product_management.md)
 * [Medicine](./medicine.md)
 * [Office](./office.md)
+* [Entertainment](./entertainment.md)
