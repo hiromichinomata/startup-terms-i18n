@@ -14,3 +14,4 @@ English <=> Chinese <=> Japanese
 * [Entertainment](./entertainment.md)
 * [Hardware](./hardware.md)
 * [Finance](./finance.md)
+* [Communication](./communication.md)
