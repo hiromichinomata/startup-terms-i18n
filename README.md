@@ -6,12 +6,13 @@ English <=> Chinese <=> Japanese
 
 ## Contents
 
+* [Communication](./communication.md)
 * [Computer Science](./computer_science.md)
+* [Entertainment](./entertainment.md)
+* [Finance](./finance.md)
 * [Frontend](./frontend.md)
-* [Product Management](./product_management.md)
+* [Hardware](./hardware.md)
 * [Medicine](./medicine.md)
 * [Office](./office.md)
-* [Entertainment](./entertainment.md)
-* [Hardware](./hardware.md)
-* [Finance](./finance.md)
-* [Communication](./communication.md)
+* [Product Management](./product_management.md)
+* [Startup](./startup.md)
