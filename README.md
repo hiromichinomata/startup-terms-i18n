@@ -12,3 +12,4 @@ English <=> Chinese <=> Japanese
 * [Medicine](./medicine.md)
 * [Office](./office.md)
 * [Entertainment](./entertainment.md)
+* [Hardware](./hardware.md)
